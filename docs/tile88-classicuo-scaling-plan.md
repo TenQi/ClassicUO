@@ -1,4 +1,4 @@
-Q: If with the codex, I opened up Classic UI, would it be very hard to modify it so it would basically load our files that are twice the dimensions of everything? so basic tiles 88x88 instead of 44x44 [disclaimer, the following might be wrong]
+Q: If with Codex, I opened up ClassicUO, would it be very hard to modify it so it would basically load art files that are twice the dimensions of everything? so basic tiles 88x88 instead of 44x44 [disclaimer, the following might be wrong]
 
 A: **no, not very hard conceptually… but there are a few exact places you must get right** or it will break visually.
 
