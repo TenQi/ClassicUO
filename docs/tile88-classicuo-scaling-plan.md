@@ -128,7 +128,7 @@ Then:
 
 ---
 
-## The hidden opportunity (this is important for your project)
+## The hidden opportunity 
 
 What you are proposing is actually powerful:
 
@@ -149,7 +149,7 @@ That aligns very well with:
 
 ---
 
-## My recommendation (decisive)
+## Recommendation (decisive)
 
 Do this:
 
