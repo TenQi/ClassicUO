@@ -137,15 +137,15 @@ What you are proposing is actually powerful:
 
   * Godot integration
   * higher fidelity assets
-  * map editor tooling (your goal)
+  * map editor tooling 
 
 You are essentially creating a **“UO-HD coordinate system”**
 
 That aligns very well with:
 
-* your Godot 4.6 work
-* your custom editor idea
-* selling a tool later
+* Godot 4.6 work
+* custom editor idea
+* a tool 
 
 ---
 
